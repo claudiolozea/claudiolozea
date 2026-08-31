@@ -1,5 +1,5 @@
 <h1 align="center">Cláudio Lozeá Feijó Soares </h1>
-<h3 align="center">Transicionando para dados | Pós-graduando em Ciência de dados | Estudante Full Stack em Dados & Analytics</h3>
+<h3 align="center">Estudante Full Stack em Dados & Analytics | Pós-graduando em Ciência de dados | </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/claudiolozea">
