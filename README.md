@@ -72,7 +72,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 ---
 
-## 📌 Sobre este portfólio
+## Sobre este portfólio
 
 Este repositório acompanha minha evolução durante a formação em **Full Stack em Dados**.
 
