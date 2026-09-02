@@ -20,20 +20,14 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 | Trilha | Principal objetivo | Status |
 |--------|--------------------|--------|
-| 🧱 **Data Foundation** | Construir uma base sólida em programação, dados e bancos de dados | 🟢 Em andamento |
+| 🧱 **Data Foundation** | <h5>Construir uma base sólida em programação, dados e bancos de dados</h5>| 🟢 Em andamento |
 | 📊 **Data Analyst** | Transformar dados em análises, indicadores e insights | ⚪ Próxima etapa |
 | ⚙️ **Data Engineer** | Construir processos, pipelines e soluções para dados | ⚪ Próxima etapa |
 | 🧠 **Data Scientist** | Aplicar estatística e Machine Learning na resolução de problemas | ⚪ Próxima etapa |
 
 ---
 
-# 📂 Portfólio
-
-## 🧱 01 — Data Foundation
-
-Fundamentos necessários para construir uma carreira sólida na área de dados.
-
-### Projetos
+## 01 — Data Foundation
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
