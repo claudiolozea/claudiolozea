@@ -53,9 +53,7 @@ Projetos focados em transformar dados em **informação, indicadores e insights 
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto EDA](./02-data-analyst/projeto-eda) | Python • Pandas | Análise exploratória de dados |
 | 🔹 [Projeto Power BI](./02-data-analyst/projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
-| 🔹 [Projeto Business Analysis](./02-data-analyst/projeto-business-analysis) | SQL • Python • Power BI | Análise orientada a problemas de negócio |
 
 ### Conhecimentos
 
@@ -71,9 +69,7 @@ Projetos voltados para a construção de soluções de **ingestão, transformaç
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto ETL](./03-data-engineer/projeto-etl) | Python • SQL | Processo de extração, transformação e carga |
-| 🔹 [Projeto Data Pipeline](./03-data-engineer/projeto-data-pipeline) | Python • Docker | Construção de pipeline de dados |
-| 🔹 [Projeto Data Warehouse](./03-data-engineer/projeto-data-warehouse) | SQL • Cloud | Estruturação de ambiente analítico |
+| 🔹 [Projeto ETL](./03-data-engineer/projeto-etl) | Python • SQL | Em andamento |
 
 ### Conhecimentos
 
@@ -89,9 +85,7 @@ Projetos dedicados à utilização de dados para **previsão, classificação, m
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto Machine Learning](./04-data-scientist/projeto-machine-learning) | Python • Scikit-learn | Construção e avaliação de modelos |
-| 🔹 [Projeto Classification](./04-data-scientist/projeto-classification) | Python • ML | Problema de classificação |
-| 🔹 [Projeto XAI](./04-data-scientist/projeto-xai) | Python • SHAP | Interpretabilidade de modelos |
+| 🔹 [Projeto Churn Telecom](https://github.com/claudiolozea/IApDev-ml-churn-xai) | Python • SHAP | Interpretabilidade de modelos |
 
 ### Conhecimentos
 
