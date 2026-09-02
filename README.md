@@ -20,7 +20,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 | Trilha | Principal objetivo | Status |
 |--------|--------------------|--------|
-| 🧱 **Data Foundation** | <h6>Construir uma base sólida em programação, dados e bancos de dados</h6>| 🟢 Em andamento |
+| 🧱 **Data Foundation** | <h5>Construir uma base sólida em programação, dados e bancos de dados</h5>| 🟢 Em andamento |
 | 📊 **Data Analyst** | Transformar dados em análises, indicadores e insights | ⚪ Próxima etapa |
 | ⚙️ **Data Engineer** | Construir processos, pipelines e soluções para dados | ⚪ Próxima etapa |
 | 🧠 **Data Scientist** | Aplicar estatística e Machine Learning na resolução de problemas | ⚪ Próxima etapa |
@@ -41,10 +41,6 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 ## 02 — Data Analyst
 
-Projetos focados em transformar dados em **informação, indicadores e insights para apoiar decisões**.
-
-### Projetos
-
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 | 🔹 [Projeto Power BI](./02-data-analyst/projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
@@ -57,10 +53,6 @@ Projetos focados em transformar dados em **informação, indicadores e insights 
 
 ## 03 — Data Engineer
 
-Projetos voltados para a construção de soluções de **ingestão, transformação, armazenamento e disponibilização de dados**.
-
-### Projetos
-
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 | 🔹 [Projeto ETL](./03-data-engineer/projeto-etl) | Python • SQL | Em andamento |
@@ -72,10 +64,6 @@ Projetos voltados para a construção de soluções de **ingestão, transformaç
 ---
 
 ## 04 — Data Scientist
-
-Projetos dedicados à utilização de dados para **previsão, classificação, modelagem e resolução de problemas com Machine Learning**.
-
-### Projetos
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
