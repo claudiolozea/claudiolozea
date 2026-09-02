@@ -38,7 +38,7 @@ Fundamentos necessários para construir uma carreira sólida na área de dados.
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 
-| 🔹 [Projeto Estatistica](./Estatistica-e-Probabilidade-Aplicada-a-Astronomia) | R | Inferência Estatística | Teste de Hipótese |
+| 🔹 [Projeto Estatistica](./claudiolozea/Estatistica-e-Probabilidade-Aplicada-a-Astronomia) | R | Inferência Estatística |
 | 🔹 [Projeto Python](./01-data-foundation/projeto-python) | Python | Aplicação dos fundamentos de programação |
 | 🔹 [Projeto SQL](./01-data-foundation/projeto-sql) | SQL | Consultas e análise de dados em banco de dados |
 | 🔹 [Projeto Database](./01-data-foundation/projeto-database) | SQL • Database | Modelagem e manipulação de dados |
