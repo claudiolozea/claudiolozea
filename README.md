@@ -18,7 +18,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 | Trilha | Principal objetivo | Status |
 |--------|--------------------|--------|
 | 🧱 **Data Foundation** | <h5>Construir uma base sólida em programação, dados e bancos de dados</h5>| 🟢 Em andamento |
-| 📊 **Data Analyst** | Transformar dados em análises, indicadores e insights | ⚪ Próxima etapa |
+| 📊 **Data Analyst** | Transformar dados em análises, indicadores e insights | 🟢 Em andamento |
 | ⚙️ **Data Engineer** | Construir processos, pipelines e soluções para dados | ⚪ Próxima etapa |
 | 🧠 **Data Scientist** | Aplicar estatística e Machine Learning na resolução de problemas | ⚪ Próxima etapa |
 
@@ -52,7 +52,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto ETL](./03-data-engineer/projeto-etl) | Python • SQL | Em andamento |
+| 🔹 [Em andamento](./03-data-engineer/projeto-etl) | Python • SQL | Em andamento |
 
 ### Conhecimentos
 
