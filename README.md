@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/claudiolozea">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="claudiolozea@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 Sou profissional de tecnologia em transição para a área de **Dados**, atualmente aprofundando minha formação no curso **Full Stack em Dados da POD Academy**.
