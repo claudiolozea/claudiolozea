@@ -71,3 +71,11 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Model Evaluation` `Feature Engineering` `XAI`
 
 ---
+
+## 📌 Sobre este portfólio
+
+Este repositório acompanha minha evolução durante a formação em **Full Stack em Dados**.
+
+Novos projetos, tecnologias e aprendizados serão adicionados conforme avanço pelas trilhas.
+
+> **Em construção, em aprendizado e em constante evolução.**
