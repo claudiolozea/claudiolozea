@@ -39,7 +39,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 ---
 
-## 📊 02 — Data Analyst
+## 02 — Data Analyst
 
 Projetos focados em transformar dados em **informação, indicadores e insights para apoiar decisões**.
 
@@ -55,7 +55,7 @@ Projetos focados em transformar dados em **informação, indicadores e insights 
 
 ---
 
-## ⚙️ 03 — Data Engineer
+## 03 — Data Engineer
 
 Projetos voltados para a construção de soluções de **ingestão, transformação, armazenamento e disponibilização de dados**.
 
@@ -71,7 +71,7 @@ Projetos voltados para a construção de soluções de **ingestão, transformaç
 
 ---
 
-## 🧠 04 — Data Scientist
+## 04 — Data Scientist
 
 Projetos dedicados à utilização de dados para **previsão, classificação, modelagem e resolução de problemas com Machine Learning**.
 
