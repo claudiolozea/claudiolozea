@@ -40,7 +40,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto Power BI](./projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
+| 🔹 [Projeto Power BI](https://github.com/claudiolozea/projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
 
 ### Conhecimentos
 
