@@ -45,7 +45,7 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 ### Conhecimentos
 
-`Python` `Pandas` `NumPy` `SQL` `Power BI` `Estatística` `Data Visualization` `EDA`
+`Python` `Pandas` `NumPy` `SQL` `Power BI` `Estatística` `Data Visualization` `EDA` `AWS` `S3` `EMR` `IAM` `Data Lake` `Pyspark`
 
 ---
 
