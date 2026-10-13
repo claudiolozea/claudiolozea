@@ -40,8 +40,8 @@ A proposta deste portfólio é acompanhar essa evolução e organizar os projeto
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 🔹 [Projeto Power BI](https://github.com/claudiolozea/projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
-| 🔹 [Projeto Data-Lake-ELT-AWS](https://github.com/claudiolozea/Data-Lake-Pipeline-ELT-AWS) | AWS S3 EMR IAM Pyspark | Arquitetura e Desenvolvimento de Data Lake na AWS com Pipeline ELT para Análise de Inadimplência |
+| 🔹 [Power BI](https://github.com/claudiolozea/projeto-power-bi) | Power BI | Dashboard e análise de indicadores |
+| 🔹 [Data-Lake-ELT-AWS](https://github.com/claudiolozea/Data-Lake-Pipeline-ELT-AWS) | AWS S3 EMR IAM Pyspark | Arquitetura e Desenvolvimento de Data Lake na AWS com Pipeline ELT para Análise de Inadimplência |
 
 ### Conhecimentos
 
